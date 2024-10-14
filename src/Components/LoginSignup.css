@@ -32,6 +32,7 @@
     flex-direction: column;
     gap: 25px;
 }
+.input-elements{}
 .input{
     display: flex;
     align-items: center;
@@ -40,6 +41,10 @@
     height: 50px;
     background: #eaeaea;
     border-radius: 6px;
+}
+.error{
+    padding-left: 30px;
+    margin-top: 5px;
 }
 .input img{
     margin: 0px 20px;
